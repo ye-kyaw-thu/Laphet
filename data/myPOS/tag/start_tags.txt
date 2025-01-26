@@ -1,0 +1,15 @@
+pron
+n
+adj
+v
+pron part
+pron ppm
+n v
+n n
+v part
+n part
+pron pron
+pron ppm
+n tn
+adj v part
+n n n
