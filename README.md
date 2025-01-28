@@ -33,5 +33,7 @@ If you have used the Laphet LM tool, please cite it as follows:
 ## References
 
 [1]. https://github.com/karpathy/nanoGPT  
-[2]. https://github.com/EurekaLabsAI/mlp
-[3]. https://leimao.github.io/blog/Entropy-Perplexity/ 
+[2]. https://github.com/EurekaLabsAI/mlp  
+[3]. https://leimao.github.io/blog/Entropy-Perplexity/  
+[4]. https://github.com/Spico197/awesome-lm-evaluation  
+[5]. https://github.com/xbeat/Machine-Learning/blob/main/Physics%20of%20Language%20Models%20in%20Python.md  
