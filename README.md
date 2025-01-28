@@ -34,3 +34,4 @@ If you have used the Laphet LM tool, please cite it as follows:
 
 [1]. https://github.com/karpathy/nanoGPT  
 [2]. https://github.com/EurekaLabsAI/mlp
+[3]. https://leimao.github.io/blog/Entropy-Perplexity/ 
