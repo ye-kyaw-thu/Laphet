@@ -11,7 +11,22 @@ Laphet: A lightweight toolkit for exploring neural network language models with 
 4. [POS tag generation (with torch.nn.Embedding)](https://github.com/ye-kyaw-thu/Laphet/blob/main/notebook/ver.0.7/example_with_myPOS_tags.ipynb)
 5. [POS tag generation (with fasttext, freeze)](https://github.com/ye-kyaw-thu/Laphet/blob/main/notebook/ver.0.7/eg_with_myPOS_tags_fasttext_freeze.ipynb)
 6. [POS tag generation (with fasttext, no freeze)](https://github.com/ye-kyaw-thu/Laphet/blob/main/notebook/ver.0.7/eg_with_myanmar_names_fasttext_no_freeze.ipynb)
-   
+
+## License
+Please note the different licenses applicable for the code, myRoman, and myPOS.
+
+### For code
+MIT License  
+[https://github.com/ye-kyaw-thu/Laphet/blob/main/LICENSE](https://github.com/ye-kyaw-thu/Laphet/blob/main/LICENSE)
+
+### For myRoman Data
+Apache License (Version 2.0)  
+[https://github.com/ye-kyaw-thu/myRoman/blob/main/LICENSE](https://github.com/ye-kyaw-thu/myRoman/blob/main/LICENSE)    
+
+### For myPOS Data
+Creative Commons Attribution-NonCommercial-Share Alike 4.0 International (CC BY-NC-SA 4.0) License   
+[Details of the License](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+
 ## Citation  
 
 If you have used the Laphet LM tool, please cite it as follows:  
