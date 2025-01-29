@@ -35,7 +35,7 @@ If you have used the Laphet LM tool, please cite it as follows:
 ```
 @misc{laphet_2024,
   author       = {Ye Kyaw Thu},
-  title        = {Laphet LM tool, Version 0.6},
+  title        = {Laphet LM tool, Version 0.7},
   month        = {1},
   year         = {2025},
   url          = {https://github.com/ye-kyaw-thu/Laphet},
