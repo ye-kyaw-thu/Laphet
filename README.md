@@ -1,6 +1,14 @@
 # Laphet (လက်ဖက်)
 Laphet: A lightweight toolkit for exploring neural network language models with Python. Ideal for educational purposes, it supports next-word prediction and evaluation using simplified implementations of MLP, Bi-LSTM, Transformer, BERT and GPT. The project takes its name from [Laphet](https://en.wikipedia.org/wiki/Lahpet) (Burmese: လက်ဖက်), the iconic fermented tea leaves of Myanmar, a personal favorite of the author.  
 
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/Laphet/blob/main/pic/laphet-thote.png" alt="Laphet Thote figure" width="450"/>  
+</p>  
+<div align="center">
+  Fig.1 Laphet Thote (Source: LU Lab.)   
+</div> 
+<br/><br/>
+
 ## Example Notebooks
 
 ### Version 0.7  
